@@ -2,7 +2,7 @@
 
 Developed with @KKyleK (https://github.com/KKyleK).
 
-A convolutional neural network for detecting classifying objects in a drone image. The CNN is trained based on an annotations file containing the bounding boxes for each labeled subject in the drone image. 
+A convolutional neural network for detecting classifying objects in a drone image from the VisDrone dataset. The CNN is trained based on an annotations file containing the bounding boxes for each labeled subject in the drone image.
 
 These include:
 - pedestrian 
